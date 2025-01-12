@@ -102,7 +102,7 @@ Customer churn prediction is crucial for businesses to retain customers and redu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/akshitbhardwaj315/customer-churn-prediction-.git
    ```
 
 2. Install required dependencies:
@@ -114,7 +114,7 @@ Customer churn prediction is crucial for businesses to retain customers and redu
 3. Run the Jupyter Notebook:
 
    ```bash
-   jupyter notebook Customer_churn_predictions.ipynb
+   jupyter notebook customer_churn_predictions.ipynb
    ```
 
 ---
